@@ -1,0 +1,28 @@
+{
+  "markets": [
+    {
+      "name": "Lunar Crypto Index",
+      "symbol": "LCI",
+      "price": 18234.52,
+      "change": 3.42
+    },
+    {
+      "name": "Mars Metals Basket",
+      "symbol": "MMB",
+      "price": 942.13,
+      "change": -1.27
+    },
+    {
+      "name": "Andromeda Tech Fund",
+      "symbol": "ATF",
+      "price": 125.88,
+      "change": 0.91
+    },
+    {
+      "name": "Nebula Energy Grid",
+      "symbol": "NEG",
+      "price": 58.44,
+      "change": 5.03
+    }
+  ]
+}
