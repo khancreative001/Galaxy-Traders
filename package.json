@@ -1,0 +1,15 @@
+{
+  "name": "galaxy-traders",
+  "version": "1.0.0",
+  "description": "A sleek front-end landing page for GALAXY TRADERS.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server .",
+    "build": "echo \"Static site – no build step\""
+  },
+  "author": "Raza",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
